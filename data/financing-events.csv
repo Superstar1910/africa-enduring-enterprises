@@ -1,0 +1,6 @@
+financing_id,company_id,project,document_date,financier,instrument,currency,amount_millions,amount_basis,source_id,notes
+KAK-IDA-NEW,madhvani-group,Sugar Rehabilitation Project,1988-03-07,International Development Association,proposed_credit,USD,24.9,appraisal_financing_plan,MAD-002,Government borrower; KSW beneficiary; not actual disbursement
+KAK-IDA-EXIST,madhvani-group,Sugar Rehabilitation Project,1988-03-07,International Development Association,existing_credit,USD,7.4,appraisal_financing_plan,MAD-002,Existing financing in plan; not new approval
+KAK-AFDB,madhvani-group,Sugar Rehabilitation Project,1988-03-07,African Development Bank,proposed_financing,USD,8.7,appraisal_financing_plan,MAD-002,Appraisal estimate; actual disbursement not verified
+KAK-AFDF,madhvani-group,Sugar Rehabilitation Project,1988-03-07,African Development Fund,proposed_financing,USD,9.4,appraisal_financing_plan,MAD-002,Appraisal estimate; actual disbursement not verified
+KAK-KSW,madhvani-group,Sugar Rehabilitation Project,1988-03-07,Kakira Sugar Works,project_contribution,USD,11.1,appraisal_financing_plan,MAD-002,Appraisal estimate; source and payment not independently verified
