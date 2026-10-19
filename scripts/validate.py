@@ -10,6 +10,7 @@ SCHEMAS = {
     "ownership-events.csv": ("event_id","company_id","event_date","event_type","from_owner","to_owner","ownership_percentage","source_id","notes"),
     "leadership-events.csv": ("event_id","company_id","event_date","person","role","event_type","source_id","notes"),
     "financials.csv": ("record_id","company_id","fiscal_year","currency","metric","value","unit","audited","source_id","notes"),
+    "financing-events.csv": ("financing_id","company_id","project","document_date","financier","instrument","currency","amount_millions","amount_basis","source_id","notes"),
     "anniversaries.csv": ("anniversary_id","company_id","anniversary_year","years_since_origin","origin_basis","source_id","verification_status","notes"),
 }
 tables = {}
