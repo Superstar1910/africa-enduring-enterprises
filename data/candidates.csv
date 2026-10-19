@@ -1,0 +1,23 @@
+name,country,origin_year,category,origin_type,evidence_status,continuity_note
+First National Bank,South Africa,1838,centenarian,predecessor_lineage,partially_verified,Lineage not same legal entity
+Old Mutual,South Africa,1845,centenarian,company_origin,partially_verified,Corporate restructurings require tracing
+Standard Bank,South Africa,1862,centenarian,company_origin,partially_verified,Group and legal continuity require review
+Nedbank,South Africa,1888,centenarian,predecessor_lineage,partially_verified,Predecessor history
+Madhvani Group,Uganda,1914,centenarian,family_enterprise_lineage,partially_verified,Group history versus individual entities
+Naspers,South Africa,1915,centenarian,company_origin,partially_verified,Corporate evolution
+Sanlam,South Africa,1918,centenarian,company_origin,partially_verified,Corporate evolution
+Mehta Group,Uganda,1924,centenarian,family_enterprise_lineage,partially_verified,Group history versus individual entities
+Masaka Cooperative Union,Uganda,1951,emerging_centenarian,cooperative_origin,partially_verified,Interrupted operations reported
+Bugisu Cooperative Union,Uganda,1954,emerging_centenarian,cooperative_origin,partially_verified,Verify registration and operations
+Banyankole Kweterana Cooperative Union,Uganda,1956,emerging_centenarian,cooperative_origin,unverified,Reported origin 1956 registration 1958
+Nyakatonzi Growers Cooperative Union,Uganda,1957,emerging_centenarian,cooperative_origin,partially_verified,Verify original registration
+Uganda Batteries,Uganda,1961,emerging_centenarian,predecessor_lineage,disputed,1961 precursor versus 1967 lineage
+Nice House of Plastics,Uganda,1970,emerging_centenarian,company_origin,partially_verified,Verify incorporation date
+Spear Motors,Uganda,1973,emerging_centenarian,company_origin,partially_verified,Verify continuous operations
+Bukoola Chemical Industries,Uganda,1973,emerging_centenarian,company_origin,unverified,Date from discussion requires primary evidence
+Ntake Bakery,Uganda,1977,future_institution,company_origin,unverified,Date from discussion requires primary evidence
+Sembule Steel Mills,Uganda,1971,lost_or_disrupted,company_origin,unverified,Distress and continuity require verification
+Banque Misr,Egypt,1920,centenarian,company_origin,partially_verified,Egyptian-founded bank; ownership history to document
+EgyptAir,Egypt,1932,emerging_centenarian,company_origin,partially_verified,Trace state ownership and legal reorganisations
+Ethiopian Airlines,Ethiopia,1945,emerging_centenarian,company_origin,partially_verified,Founded December 1945; operations April 1946
+Nigerian Breweries,Nigeria,1946,emerging_centenarian,company_origin,partially_verified,Partnership origin; not indigenous African-founded
