@@ -1,0 +1,23 @@
+name: Validate research data
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate candidate schema and duplicates
+        run: |
+          python3 - <<'PY'
+          import csv
+          from pathlib import Path
+          p=Path('data/candidates.csv')
+          rows=list(csv.DictReader(p.open()))
+          assert rows and len(rows)==len({(r['name'],r['country']) for r in rows})
+          for r in rows:
+              assert 1800 <= int(r['origin_year']) <= 2026
+              assert r['evidence_status'] in {'verified','partially_verified','disputed','unverified'}
+          print(f'Validated {len(rows)} research candidates')
+          PY
