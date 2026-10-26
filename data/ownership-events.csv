@@ -2,3 +2,6 @@ event_id,company_id,event_date,event_type,from_owner,to_owner,ownership_percenta
 BM-OWN-1960,banque-misr,1960,nationalisation,Private shareholders,Egyptian state,,BM-002,Year established by official bank history; decree and exact date pending
 MAD-OWN-1972,madhvani-group,1972,expropriation,Madhvani family,Ugandan state,,MAD-003,Applies to Kakira assets not necessarily all group legal entities
 MAD-OWN-1985,madhvani-group,1985-05-15,joint_venture_incorporation,State-controlled Kakira assets,Kakira Sugar Works (1985) Ltd,,MAD-002,World Bank describes 60 percent EAHL and minority shareholders versus 40 percent state in 1985 JVA; ownership event refers to subsidiary
+NB-OWN-2020,nigerian-breweries,2020-09-30,ownership_snapshot,Public shareholders and Heineken,Heineken N.V.,56.13,NB-EQUITY-2025,Company reports historic shareholding as at September 2020
+NB-OWN-2025,nigerian-breweries,2025-12-31,ownership_snapshot,Public shareholders and Heineken,Heineken N.V.,72.9,NB-EQUITY-2025,Company reports December 2025 shareholding; do not infer cause of increase
+NKCC-OWN-2004,new-kcc,2004-11-19,incorporation_and_state_ownership,New KCC cooperative society,Government of Kenya,100,NKCC-AUDIT-2021,Distinct 2004 company took over the business of 2003 cooperative society
