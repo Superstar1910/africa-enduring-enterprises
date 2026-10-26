@@ -1,3 +1,4 @@
 event_id,company_id,event_date,person,role,event_type,source_id,notes
 BM-LEAD-1939,banque-misr,1939-09-14,Mohamed Talaat Harb,Vice Chairman and Managing Director,resignation,BM-003,Reported by bank annual report; circumstances require independent corroboration
 ET-LEAD-2022,ethiopian-airlines,2022-03-23,Mesfin Tasew,Group CEO,appointment,ET-002,Replaced Tewolde GebreMariam
+NB-LEAD-2025,nigerian-breweries,2025-07-01,Thibaut Boidin,Managing Director and CEO,appointment,NB-CEO-2025,Replaced Hans Essaadi who ended his term 30 June 2025
