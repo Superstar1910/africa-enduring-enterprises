@@ -5,3 +5,7 @@ MAD-OWN-1985,madhvani-group,1985-05-15,joint_venture_incorporation,State-control
 NB-OWN-2020,nigerian-breweries,2020-09-30,ownership_snapshot,Public shareholders and Heineken,Heineken N.V.,56.13,NB-EQUITY-2025,Company reports historic shareholding as at September 2020
 NB-OWN-2025,nigerian-breweries,2025-12-31,ownership_snapshot,Public shareholders and Heineken,Heineken N.V.,72.9,NB-EQUITY-2025,Company reports December 2025 shareholding; do not infer cause of increase
 NKCC-OWN-2004,new-kcc,2004-11-19,incorporation_and_state_ownership,New KCC cooperative society,Government of Kenya,100,NKCC-AUDIT-2021,Distinct 2004 company took over the business of 2003 cooperative society
+EABL-OWN-2000,east-african-breweries,2000,majority_control,Public and prior owners,Diageo,majority,EABL-HIST-2026,Issuer heritage dates Diageo majority control to 2000
+EABL-OWN-2023,east-african-breweries,2023,ownership_increase,Diageo preexisting majority,Diageo,65,EABL-ANNUAL-2023,Issuer annual report says aggregate equity increased from 50.03 percent to maximum 65 percent
+EABL-OWN-2025-SPA,east-african-breweries,2025-12-17,signed_share_purchase_agreement,Diageo via Diageo Kenya Limited,Asahi via DKL,65,EABL-ASAHI-2025,Proposed indirect change of control only; closing not verified as of 2 November 2026
+EABL-OWN-2026-CAK,east-african-breweries,2026-09-10,conditional_merger_approval,Diageo via DKL,Asahi proposed,65,EABL-CAK-2026,Kenya competition clearance does not equal completed share transfer
